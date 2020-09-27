@@ -45,7 +45,7 @@ Project status: work in progress
 ![Screenshot](midPage.png)
 ````
 ````
-![Screenshot](mid2page.png)
+![Screenshot](mid2Page.png)
 ````
 ````
 ![Screenshot](mid3page.png)
