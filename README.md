@@ -22,6 +22,7 @@ Project status: work in progress
 ````
 - JavaScript
 - TypeScript
+- Swagger 
 - Bootstrap
 - jQuery
 - CSS
