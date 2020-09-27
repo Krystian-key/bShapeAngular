@@ -15,9 +15,8 @@ Project status: work in progress
 - loggining in
 - registration
 ````
-````
 
-````
+
 ## Languages and Tools Used:
 
 ````
@@ -33,9 +32,8 @@ Project status: work in progress
 
 
 ## Job distribution tools:
-
-![Screenshot](linkDoTrello.png)
 ````
+- Trello
 ````
 
 ## Page layout:
