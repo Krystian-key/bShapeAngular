@@ -38,21 +38,21 @@ Project status: work in progress
 
 ## Page layout:
 
-![Screenshot](mainPage.png)
+![Screenshot](MainPage.png)
 ````
 ````
 ![Screenshot](midPage.png)
 ````
 ````
-![Screenshot](mid2Page.png)
+![Screenshot](mid2page.png)
 ````
 ````
-![Screenshot](mid3Page.png)
+![Screenshot](mid3page.png)
 ````
 ````
-![Screenshot](mid4Page.png)
+![Screenshot](mid4page.png)
 ````
 ````
-![Screenshot](mid5Page.png)
+![Screenshot](mid5page.png)
 ````
 ````
